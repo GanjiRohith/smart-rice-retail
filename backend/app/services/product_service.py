@@ -1,0 +1,1 @@
+# Product service - logic moved inline to product_routes.py

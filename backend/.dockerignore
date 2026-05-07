@@ -1,0 +1,56 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Tests
+test_*.py
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Docker
+Dockerfile
+docker-compose*.yml
+.dockerignore
+
+# Frontend (not needed in backend image)
+../frontend/
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Temporary
+*.tmp
+*.temp
+*.bak
+tmp/

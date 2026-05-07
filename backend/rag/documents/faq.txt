@@ -1,0 +1,46 @@
+Frequently Asked Questions
+
+Q: How can I place an order?
+A: Customers can browse products, add items to cart, and place orders through the website.
+
+Q: How can I track my order?
+A: Customers can track their orders from the Orders section after login.
+
+Q: What payment methods are supported?
+A: UPI, Credit Cards, Debit Cards, Net Banking, and Cash on Delivery are supported.
+
+Q: Can I cancel an order?
+A: Orders can be cancelled before shipment.
+
+Q: How long does delivery take?
+A: Delivery usually takes 2 to 5 business days.
+
+Q: Do you provide refunds?
+A: Refunds are provided for damaged products, wrong deliveries, or failed deliveries.
+
+Q: What happens if my payment fails?
+A: Failed payments are automatically reversed by the bank within 5 to 7 business days.
+
+Q: How can I contact customer support?
+A: Customers can contact support using email or phone.
+
+Q: Are your rice products organic?
+A: Some products are fully organic and clearly marked as organic in product details.
+
+Q: How should rice be stored?
+A: Rice should be stored in a cool and dry place inside airtight containers.
+
+Q: Is Cash on Delivery available?
+A: Yes, Cash on Delivery is available in selected locations.
+
+Q: What if my product arrives damaged?
+A: Customers can request replacement or refund within 48 hours of delivery.
+
+Q: Do you provide wholesale pricing?
+A: Yes, bulk and wholesale pricing is available for selected customers.
+
+Q: Can I modify my delivery address?
+A: Delivery address can be changed before order shipment.
+
+Q: Do you deliver on weekends?
+A: Weekend delivery is available in selected cities.

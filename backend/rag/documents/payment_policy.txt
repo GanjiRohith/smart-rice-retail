@@ -1,0 +1,39 @@
+Payment Policy
+
+The platform supports secure online payments.
+
+Accepted Payment Methods:
+
+* UPI
+* Google Pay
+* PhonePe
+* Paytm
+* Credit Cards
+* Debit Cards
+* Net Banking
+* Cash on Delivery
+
+Payment Security:
+All transactions are processed through secure payment gateways with encryption.
+
+Failed Payments:
+If money is deducted but order is not confirmed, the amount is usually refunded automatically within 5 to 7 business days.
+
+Partial Payments:
+Partial payment options may be available during promotional offers.
+
+Invoice:
+Digital invoices are automatically generated after successful orders.
+
+Cash on Delivery:
+COD availability depends on customer location and order amount.
+
+Fraud Detection:
+Suspicious transactions may be blocked automatically for security reasons.
+
+Refund Timelines:
+UPI Refunds: 2 to 5 business days
+Card Refunds: 5 to 7 business days
+Net Banking Refunds: 3 to 7 business days
+
+Customers should contact support if refund delays exceed expected timelines.
