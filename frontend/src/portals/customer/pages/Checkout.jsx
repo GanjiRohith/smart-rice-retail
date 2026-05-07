@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useNavigate, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import api from "../../../shared/services/api";
 
 export default function Checkout() {
@@ -9,7 +9,7 @@ export default function Checkout() {
   const [success, setSuccess] = useState(null);
   const [error, setError] = useState("");
   const [paymentStep, setPaymentStep] = useState(null); // null | "processing" | "done"
-  const navigate = useNavigate();
+ 
 
   const items = JSON.parse(localStorage.getItem("rice_cart") || "[]");
   const subtotal = items.reduce((sum, i) => sum + i.price_per_kg * i.quantity, 0);
