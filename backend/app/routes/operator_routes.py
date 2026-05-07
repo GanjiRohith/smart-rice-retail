@@ -8,7 +8,13 @@ from agents.frontend_operator.agent import (
 
 router = APIRouter()
 
-agent = FrontendOperatorAgent()
+_agent = None
+
+def get_agent():
+    global _agent
+    if _agent is None:
+        _agent = FrontendOperatorAgent()
+    return _agent
 
 
 # =========================
@@ -34,7 +40,7 @@ def operate(
     request: OperatorRequest
 ):
 
-    result = agent.run(
+    result = get_agent().run(
 
         command=request.command,
 
