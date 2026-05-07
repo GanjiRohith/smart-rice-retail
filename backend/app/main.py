@@ -71,7 +71,9 @@ app.add_middleware(
 
         "http://127.0.0.1:3000",
 
-        "http://127.0.0.1:5173"
+        "http://127.0.0.1:5173",
+
+        "https://lively-rock-0e0a91100.7.azurestaticapps.net"
     ],
 
     allow_credentials=True,

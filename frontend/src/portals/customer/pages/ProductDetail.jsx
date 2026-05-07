@@ -55,7 +55,7 @@ export default function ProductDetail() {
         <div className="bg-gradient-to-br from-amber-50 to-green-50 rounded-2xl flex items-center justify-center h-80 md:h-96 overflow-hidden">
           {product.image_url ? (
             <img
-              src={`${process.env.REACT_APP_API_URL || 'http://127.0.0.1:8001'}${product.image_url}`}
+              src={`${process.env.REACT_APP_API_URL || 'https://smart-rice-backend.azurewebsites.net'}${product.image_url}`}
               alt={product.rice_type}
               className="h-full w-full object-cover rounded-2xl"
               onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'flex'; }}

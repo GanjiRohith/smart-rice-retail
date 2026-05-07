@@ -108,7 +108,7 @@ export default function Home() {
                   <div className="h-44 bg-gradient-to-br from-amber-50 to-green-50 rounded-t-2xl flex items-center justify-center overflow-hidden">
                     {p.image_url ? (
                       <img
-                        src={`${process.env.REACT_APP_API_URL || 'http://127.0.0.1:8001'}${p.image_url}`}
+                        src={`${process.env.REACT_APP_API_URL || 'https://smart-rice-backend.azurewebsites.net'}${p.image_url}`}
                         alt={p.rice_type}
                         className="h-full w-full object-cover rounded-t-2xl"
                         onError={(e) => { e.target.style.display = 'none'; e.target.nextSibling.style.display = 'flex'; }}
