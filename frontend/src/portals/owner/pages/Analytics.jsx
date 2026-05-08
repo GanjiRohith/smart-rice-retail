@@ -12,9 +12,7 @@ import {
   PieChart,
   Pie,
   Cell,
-  Legend,
-  LineChart,
-  Line
+  Legend
 } from "recharts";
 
 const COLORS = [
