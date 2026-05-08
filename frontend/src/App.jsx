@@ -70,7 +70,7 @@ export default function App() {
           <Route path="inventory" element={<OwnerInventory />} />
           <Route path="suppliers" element={<OwnerSuppliers />} />
           <Route path="forecast" element={<OwnerForecast />} />
-          <Route path="anomalies" element={<OwnerAnomalies />} />
+
           <Route path="analytics" element={<OwnerAnalytics />} />
           <Route path="customers" element={<OwnerCustomers />} />
           <Route path="chatbot" element={<OwnerChatbot />} />
