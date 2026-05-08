@@ -11,7 +11,7 @@ const NAV_ITEMS = [
   { to: "/owner/suppliers", label: "Suppliers", icon: "🚚" },
   { to: "/owner/analytics", label: "Analytics", icon: "📈" },
   { to: "/owner/forecast", label: "AI Forecast", icon: "🔮" },
-  { to: "/owner/anomalies", label: "Anomaly Alerts", icon: "⚠️" },
+
   { to: "/owner/customers", label: "Customers", icon: "👥" },
   { to: "/owner/chatbot", label: "AI Chat", icon: "🤖" },
 ];

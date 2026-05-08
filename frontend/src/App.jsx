@@ -18,7 +18,7 @@ const OwnerOrders = React.lazy(() => import("./portals/owner/pages/Orders"));
 const OwnerInventory = React.lazy(() => import("./portals/owner/pages/Inventory"));
 const OwnerSuppliers = React.lazy(() => import("./portals/owner/pages/Suppliers"));
 const OwnerForecast = React.lazy(() => import("./portals/owner/pages/DemandForecast"));
-const OwnerAnomalies = React.lazy(() => import("./portals/owner/pages/AnomalyAlerts"));
+
 const OwnerChatbot = React.lazy(() => import("./portals/owner/pages/Chatbot"));
 const OwnerAnalytics = React.lazy(() => import("./portals/owner/pages/Analytics"));
 const OwnerCustomers = React.lazy(() => import("./portals/owner/pages/Customers"));
